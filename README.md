@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+#I am Gautam, an IT undergrad, interested in all things related to software engineering.
 <!--
 **gautamarora01/gautamarora01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
