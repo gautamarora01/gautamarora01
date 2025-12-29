@@ -1,14 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gautam</h1>
-<h3 align="center">An IT undergrad, interested in all things related to software engineering</h3>
 
-<p align="left">
+
+<p align="center">
+  <img width="1024" height="435" alt="Readme_github_image_canva" src="https://github.com/user-attachments/assets/e8c28b07-ccd3-4955-a6ca-eff16994f5e9" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=gautamarora01&theme=default&hide_border=false" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gautamarora01&show_icons=true&locale=en&layout=compact" alt="gautamarora01" /></p>
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamarora01&show_icons=true&locale=en" alt="gautamarora01" /></p> -->
-
-
 <!--
 # Hi there 👋
 
